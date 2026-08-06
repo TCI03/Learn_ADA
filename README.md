@@ -1,2 +1,2 @@
 # Learn_ADA
-Prctice Ada programming.
+Practice Ada programming.
